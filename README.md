@@ -4,4 +4,4 @@
 
 MetaMiner is a desktop application built to streamline the retrieval, normalization, and exploration of prokaryotic genome metadata from NCBI-hosted genomes. It offers an intuitive, integrated interface that allows users to interactively filter, analyze, and visualize metadata from hundreds or even thousands of genomes with just a few clicks.
 
-For detailed usage instructions and a deeper understanding of how MetaMiner works, please visit our [wiki](https://github.com/prekijpatel/metaminer_dummy/wiki)!
+For detailed usage instructions and a deeper understanding of how MetaMiner works, please visit our [wiki](https://github.com/prekijpatel/MetaMiner/wiki)!
